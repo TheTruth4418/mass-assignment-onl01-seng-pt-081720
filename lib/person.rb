@@ -1,6 +1,6 @@
 class Person
   attr_accessor :name
-  will_attributes = { 
+  will_attributes = {
     :name => "Will",
     :birthday => "03/22/200",
     :hair_color => "black",
