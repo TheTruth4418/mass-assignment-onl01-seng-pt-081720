@@ -1,5 +1,5 @@
 class Person
-  attr_accessor :name
+  attr_accessor :name, :birthday, :hair_color, :eye_color, :height, :weight, :handed, :complextion, :t_shirt_size, :wrist_size, :glove_size,
   will_attributes = {
     :name => "Will",
     :birthday => "03/22/200",
